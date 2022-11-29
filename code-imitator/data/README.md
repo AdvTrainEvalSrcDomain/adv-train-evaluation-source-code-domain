@@ -1,0 +1,1 @@
+The full dataset is in `dataset_2017/dataset_2017_8_formatted_macrosremoved`. Each author has 8 programs, where 7 should be used for training and 1 for testing. We create 8 folds of data by manually splitting the dataset 8 times, where each program is used once for testing.
